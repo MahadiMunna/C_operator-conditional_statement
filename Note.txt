@@ -1,0 +1,18 @@
+# Arithmetic operators:
+    sum = +
+    sub = -
+    mul = *
+    div = /
+    mod = %
+# Relational Operator:
+    < less than
+    > greater than
+    <= less or equal
+    >= greater or equal
+    == equal
+    != not equal
+# Logical operator:
+    && logical and
+    || logical or
+# Conditional Statement:
+    if, else if, else
